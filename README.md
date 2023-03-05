@@ -33,9 +33,9 @@ You can view the page by copying the url ,,,,,,,,,,,,,,,,,,,,,,,##rrr() and past
 
 ## Usage
 
-The project has HTML, CSS, and README files. The files can be a good building-block for similar web page development. 
-The screenshot of the webpage is included here.
-![alt text] (/assets/images/webpage.png)
+The project has HTML, CSS, and README files. The files can be a good building-block for similar web page development. You can see the sreenshot of the web page by double clicking the file "webpage.png" in the "assets" directory. It can also be viewed by clicking on the follwing syntax link.
+
+![alt text](/assets/images/webpage.png)
 
 
 ## Credits
@@ -43,7 +43,6 @@ The screenshot of the webpage is included here.
 I would like to acknowledge my Instructor Stephen Oveson, and the Teaching Assistance team for giving the starter code and all the required support. 
 
 
-
 ## License
 
-The MIT License applies (check here ##..........for details).
+The MIT License applies (check here https://github.com/Nafbek/module1-challenge2/blob/main/LICENSE for details).

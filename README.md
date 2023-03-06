@@ -2,7 +2,7 @@
 
 ## Description
 
-This project, which is a bootcamp course requirement, is part of the two types of coding project challenges. It refactored the starter codes. The project basically modified the structure of the codes by regrouping elements, using semantic elements, and adding comments for clarity. Moreover, it is set to entail the following user story and acceptance criteria.
+This project, which is a bootcamp course requirement, is part of the two types of coding project challenges. It refactored the starter codes. The project basically modified the structure of the codes by regrouping elements, using semantic elements, making contents clickable, and adding comments for clarity. Moreover, it is set to entail the following user story and acceptance criteria.
 
 ### User Story
 As a Web Development student

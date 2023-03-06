@@ -121,14 +121,15 @@ h1 {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /* To set footer */
-.footer {
+footer{
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 /* To set heading 2 in he footer */
-.footer h2 {
+footer, h2 {
     font-size: 20px;
 }

@@ -1,4 +1,4 @@
-/* Set to be affected by universal selector*/
+/* To affect the entire page*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +8,21 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* To set all links */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* To set all paragraphs */
+p {
+    font-size: 16px;
+}
+/* To set the hero image */
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* To set the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,7 +46,6 @@ h1 {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-
 }
 /* To affect the listing items other than the heading 1
     in the  division of the header */
@@ -41,17 +54,7 @@ h1 {
     display: inline-block;
     margin-left: 25px;
 }
-
-/* To set all links */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* To set the hero image */
 .hero-image {
     height: 800px;
     width: 100%;
@@ -60,23 +63,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* To set the images of the first and the third sections of the content division */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* To set the image of the second section of the content division */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* To set the main content division */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* To set the division with a class 'benefits' */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,23 +91,19 @@ p {
     background-color: #2589bd;
     border-radius: 5%;
 }
-
+/* To set the the sections in the 'benefits' division */
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* To set images in sections of the 'benefits' division */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* To set sections in the content division */
 .sub-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,24 +112,24 @@ h3 {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* To set images in sections of the content division */
 .sub-content img {
     max-height: 200px;
 }
-
+/* To set heading 2 in sections of the content division */
 .sub-content h2
 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* To set footer */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* To set heading 2 in he footer */
 .footer h2 {
     font-size: 20px;
 }

@@ -1,3 +1,4 @@
+/* Set to be affected by universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -14,17 +15,18 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* To set heading 1 in the header */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* To set the three letters of heading 1 
+    in the header different color */
 .seo {
     color: #c3d0b5;
 }
-
-.nav-items {
+/* To affect the division in the header */
+.nav-div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,14 +34,15 @@ h1 {
     font-size: 20px;
 
 }
-
-.nav-items ul li{
+/* To affect the listing items other than the heading 1
+    in the  division of the header */
+.nav-div ul li{
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
-
+/* To set all links */
 a {
     color: #ffffff;
     text-decoration: none;

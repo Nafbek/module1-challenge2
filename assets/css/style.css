@@ -8,38 +8,38 @@
 body {
     background-color: #d9dcd6;
 }
-/* To set all links */
+/* To set all links with the incdicated properties and values*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/* To set all paragraphs */
+/* To set font size for all paragraphs */
 p {
     font-size: 16px;
 }
-/* To set all heading 3 */
+/* To set all heading 3 with the incdicated properties and values*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* To set the header */
+/* To set the header with the incdicated properties and values*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/* To set heading 1 in the header */
+/* To set heading 1 in the header with the incdicated properties and values*/
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* To set the three letters of heading 1 
-    in the header a different color */
+/* To set the three letters of the heading 1 
+    in the header with a different color */
 .seo {
     color: #c3d0b5;
 }
-/* To affect the division in the header */
+/* To affect the container or div in the header */
 .nav-div {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,13 +48,13 @@ h1 {
     font-size: 20px;
 }
 /* To affect the listing items other than the heading 1
-    in the  division of the header */
+    in the header */
 .nav-div ul li{
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
-/* To set the hero image */
+/* To set the hero/background image with the incdicated properties and values*/
 .hero-image {
     height: 800px;
     width: 100%;
@@ -63,13 +63,13 @@ h1 {
     background-size: cover;
     background-position: center;
 }
-/* To set the main content division */
+/* To affect the entire main content container with the incdicated properties and values */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* To set sections in the content division */
+/* To set the sections in the content division */
 .sub-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -78,27 +78,27 @@ h1 {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* To set images in sections of the content division */
+/* To set the images in the sub-content class with max-height */
 .sub-content img {
-    max-height: 200px;
+    max-height: 200px; 
 }
-/* To set heading 2 in sections of the content division */
+/* To set the heading 2 */
 .sub-content h2
 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* To set the images of the first and the third sections of the content division */
+/* To set the images of the first and the third sections of the content container */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* To set the image of the second section of the content division */
+/* To set the image of the second section of the content container */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-/* To set the division with a class 'benefits' */
+/* To set the container with a class name 'benefits' ith the incdicated properties and values*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,27 +109,28 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     border-radius: 5%;
+    box-sizing: border-box;
 }
-/* To set images in sections of the 'benefits' division */
+/* To set images in the sections of the 'benefits' division/parent element */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* To set the the sections in the 'benefits' division */
+/* To set the the sections in the 'benefits' division/parent element */
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* To set footer */
+/* To set the footer */
 footer{
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* To set heading 2 in he footer */
+/* To set the heading 2 in the footer */
 footer, h2 {
     font-size: 20px;
 }

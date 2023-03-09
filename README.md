@@ -2,16 +2,16 @@
 
 ## Description
 
-This project, which is a bootcamp course requirement, is part of the two types of coding project challenges. It refactored the starter codes. The project basically modified the structure of the codes by regrouping elements, using semantic elements, making contents clickable, and adding comments for clarity. Moreover, it is set to entail the following user story and acceptance criteria.
+This project, which is a bootcamp course requirement, is part of the two types of coding project challenges. It refactored the starter codes. The project basically modified the structure of the codes by regrouping elements, using semantic elements, making the main contents clickable, and adding some comments for a clarity purpose. Moreover, it is set to entail the following user story and acceptance criteria.
 
 ### User Story
 As a Web Development student
 I want to refactor the existing codes by applying the accessibility standards
 So that I learn web development skills. 
 
-,,,,,,,,,,,,,,,,,,,AS A marketing agency
+(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AS A marketing agency
 I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO THAT our own site is optimized for search engines.)
 
 ###  Acceptance Criteria (It is a given)
 
@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title.
 
 ## Installation
 
-You can view the page by copying the url ,,,,,,,,,,,,,,,,,,,,,,,##rrr() and pasting it in any of your preferred broweser.
+You can only view the page by copying its url and pasting it in any of your preferred browser.
 
 ## Usage
 
